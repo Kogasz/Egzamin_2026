@@ -1,0 +1,14 @@
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\bin\Debug\net8.0\Konsola.exe
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\bin\Debug\net8.0\Konsola.deps.json
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\bin\Debug\net8.0\Konsola.runtimeconfig.json
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\bin\Debug\net8.0\Konsola.dll
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\bin\Debug\net8.0\Konsola.pdb
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\Konsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\Konsola.AssemblyInfoInputs.cache
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\Konsola.AssemblyInfo.cs
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\Konsola.csproj.CoreCompileInputs.cache
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\Konsola.dll
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\refint\Konsola.dll
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\Konsola.pdb
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\Konsola.genruntimeconfig.cache
+C:\Users\filip.lemiesz.ZS1MM.000\source\repos\Konsola\Konsola\obj\Debug\net8.0\ref\Konsola.dll

@@ -1,4 +1,4 @@
-namespace Konsola
+﻿namespace Konsola
 {
     internal class Program
     {
